@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 test4 modification by tester-git clone
+=======
+test4 modification and another one by interview-question clone
+>>>>>>> 3ecdb952c071c34c4a322ccce2e7007d4fe6e9e8
