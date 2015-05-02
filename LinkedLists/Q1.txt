@@ -1,0 +1,2 @@
+Writw code to remove duplicates from an unsorted list.
+temporary buffer is not allowed
